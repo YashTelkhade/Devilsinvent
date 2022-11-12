@@ -1,4 +1,4 @@
-##Real Time Class Sentiment Analysis(https://github.com/YashTelkhade/Devilsinvent/edit/main/README.md)
+##[Real Time Class Sentiment Analysis](https://github.com/YashTelkhade/Devilsinvent)
 
 > Admin Dashboard made with Material-UI components and React.
 
